@@ -1,4 +1,4 @@
-# Catalyzing Precision Medicine: AI-Powered Breast Cancer Diagnosis & Treatment
+# Catalyzing Precision Medicine: AI-Powered Breast Cancer Diagnosis 
 
 ## Project Overview
 
@@ -188,4 +188,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Contact
 
 For questions or issues, please open an issue on the repository.
+
 
